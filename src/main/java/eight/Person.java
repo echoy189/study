@@ -29,6 +29,6 @@ public class Person {
     }
 
     void test() {
-        map = new HashMap<>();
+//        map = new HashMap<>();
     }
 }
