@@ -15,7 +15,10 @@ class A{
     }
 
     public static void main(String[] args) {
-        A a=new A();
-        a.test2(new B()).age=100;
+//        A a=new A();
+//        a.test2(new B()).age=100;
+
+        String  aa = null;
+        System.out.println(aa.trim());
     }
 }
