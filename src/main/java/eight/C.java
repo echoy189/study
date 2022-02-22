@@ -1,5 +1,0 @@
-package eight;
-
-class C {
-
-}
